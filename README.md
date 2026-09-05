@@ -204,8 +204,8 @@ Future development may include:
 
 ## Links
 
-* 🌐 **Website:** https://www.epochconvert.com/
-* 🕐 **Epoch Converter:** https://www.epochconvert.com/
+* 🌐 **Epoch Converter:** https://www.epochconvert.com/
+* 🕐 **Developer Timestamp Formats:** https://epochconvert.com/developer-timestamp-formats
 * 💬 **Discord Timestamp Converter:** https://www.epochconvert.com/discord-timestamp-converter
 * 🔌 **Developer API:** https://www.epochconvert.com/developer
 * 💻 **GitHub:** https://github.com/phpzag/epochconvert
